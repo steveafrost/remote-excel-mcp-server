@@ -1,0 +1,6 @@
+{
+  "name": "remote-excel-mcp-server",
+  "compatibility_date": "2025-04-18",
+  "compatibility_flags": ["python_workers"],
+  "main": "src/excel_mcp/__main__.py"
+}
